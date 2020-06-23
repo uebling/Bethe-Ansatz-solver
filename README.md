@@ -1,5 +1,5 @@
 # Bethe-Ansatz-solver
-Code that solves the equations of the Bethe Ansatz for the Hubbard model
+Matlab-code that solves the Lieb-Wu equations of the Bethe Ansatz for the Hubbard model
 
 Notes for my Bethe Ansatz code:
 
